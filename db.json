@@ -34,7 +34,7 @@
       "id" : 4, 
       "name" : "Grapes",
       "icon" : "🍇",
-      "quantity" : 100
+      "quantity" : 100,
       "price" : 0.05,
       "origin" : "California"
     }, 
@@ -59,7 +59,7 @@
       "name" : "Oranges",
       "icon" : "🍊",
       "quantity" : 30,
-      "price" : 0.1,5
+      "price" : 0.15,
       "origin" : "Florida"
     }    
   ],
