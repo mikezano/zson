@@ -14,7 +14,33 @@
       "title" : "Software Engineer",
       "role" : "Full Stack Developer",
       "isManager" : "false"
-    }   
+    },
+    {
+      "id" : 2,
+      "firstName" : "Scottie",
+      "lastName" : "Jewell",
+      "displayName" : "Jewell, Scottie",
+      "title" : "Software Engineer",
+      "role" : "Full Stack Developer",
+      "isManager" : "false"
+    },
+    {
+      "id" : 3,
+      "firstName" : "Seth",
+      "lastName" : "Sobol",
+      "displayName" : "Sobol, Seth",
+      "title" : "Software Engineer",
+      "role" : "Full Stack Developer",
+      "isManager" : "false"
+    },
+    {
+      "id" : 4,
+      "firstName" : "Darell",
+      "lastName" : "Toohey",
+      "displayName" : "Toohey, Darell",
+      "title" : "Manager",
+      "isManager" : "true"
+    }     
   ],
   "profile": {
     "name": "typicode"
