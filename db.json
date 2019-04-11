@@ -13,7 +13,7 @@
       "displayName" : "Manzano, Michael",
       "title" : "Software Engineer",
       "role" : "Full Stack Developer",
-      "isManager" : false
+      "isManager" : "false"
     },
     {
       "id" : 2,
@@ -22,7 +22,7 @@
       "displayName" : "Jewell, Scottie",
       "title" : "Software Engineer",
       "role" : "Full Stack Developer",
-      "isManager" : false
+      "isManager" : "false"
     },
     {
       "id" : 3,
@@ -31,7 +31,7 @@
       "displayName" : "Sobol, Seth",
       "title" : "Software Engineer",
       "role" : "Full Stack Developer",
-      "isManager" : false
+      "isManager" : "false"
     },
     {
       "id" : 4,
@@ -39,7 +39,7 @@
       "lastName" : "Toohey",
       "displayName" : "Toohey, Darell",
       "title" : "Manager",
-      "isManager" : true
+      "isManager" : "true"
     }   
   ],
   "profile": {
