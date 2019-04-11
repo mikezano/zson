@@ -10,7 +10,7 @@
       "id" : 1, 
       "name" : "Bananas",
       "icon" : "🍌",
-      "quantity" : 10
+      "quantity" : 10,
       "price" : 0.1,
       "origin" : "Ecuador"
     },
@@ -18,7 +18,7 @@
       "id" : 2, 
       "name" : "Strawberries",
       "icon" : "🍓",
-      "quantity" : 30
+      "quantity" : 30,
       "price" : 0.25,
       "origin" : "California"
     },
@@ -26,7 +26,7 @@
       "id" : 3, 
       "name" : "Pineapples",
       "icon" : "🍍",
-      "quantity" : 5
+      "quantity" : 5,
       "price" : 3,
       "origin" : "Hawaii"
     },
@@ -42,7 +42,7 @@
       "id" : 5, 
       "name" : "Watermelons",
       "icon" : "🍉",
-      "quantity" : 2
+      "quantity" : 2,
       "price" : 2,
       "origin" : "Georgia"
     }, 
@@ -50,7 +50,7 @@
       "id" : 6, 
       "name" : "Cherries",
       "icon" : "🍒",
-      "quantity" : 10
+      "quantity" : 10,
       "price" : 0.5,
       "origin" : "Washington"
     }, 
@@ -58,7 +58,7 @@
       "id" : 7, 
       "name" : "Oranges",
       "icon" : "🍊",
-      "quantity" : 30
+      "quantity" : 30,
       "price" : 0.1,5
       "origin" : "Florida"
     }    
