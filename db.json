@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "user" : [
+    {
+      "id" : 1,
+      "firstName" : "Michael",
+      "lastName" : "Manzano",
+      "displayName" : "Manzano, Michael",
+      "title" : "Software Engineer",
+      "role" : "Full Stack Developer"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
