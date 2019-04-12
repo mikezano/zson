@@ -4,22 +4,26 @@
 		<title>
 			Fruits R Us
 		</title>
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 	</head>
 	<body>
 		<style>
+			body{
+				font-family: 'Roboto', sans-serif;
+			}
 			.fruits{
 				display:flex;
+				flex-wrap: wrap;
 				list-style-type:none;
 			}
 			.fruits__card{
-				border:1px solid gray;
+				border:2px solid gray;
 				border-radius: 4px;
 				margin: 1rem;
 				display:flex;
 				flex-direction: column;
 				align-items:center;
-				width:100px;
-				height:150px;
+
 			}
 
 			.fruits__icon{
@@ -30,9 +34,11 @@
 			<h1>Fruits R' Us</h1>
 			<ul class="fruits">
 				<li class="fruits__card" v-for="fruit in fruits">
-					<div class="fruits__icon">{{fruit.icon}}</div>
 					<div class="fruits__name">{{fruit.name}}</div>
+					<div class="fruits__icon">{{fruit.icon}}</div>
+					<div class="fruits__price">Price: {{fruit.price}}</div>
 					<div class="fruits__quantity" v-if="fruit.quantity === 0">(Out Of Stock)</div>
+					<div class="fruits__quantity" else>Quantity: {{fruit.quantity}}</div>
 				</li>
 			</ul>
 			<h2>Total Inventory Value : {{totalInventoryValue}}</h2>
