@@ -61,7 +61,15 @@
       "quantity" : 30,
       "price" : 0.15,
       "origin" : "Florida"
-    }    
+    },
+    {
+      "id" : 8, 
+      "name" : "Apple",
+      "icon" : "🍎",
+      "quantity" : 300,
+      "price" : 0.05,
+      "origin" : "Washington"      
+    }
   ],
   "users" : [
     {
